@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Allen Xavier 👋
 
-<!--
-**allenxavierd/allenxavierd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Developer  
+🚀 Passionate about Technology, AI, and Open Source
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Software Development and Computer Science fundamentals
+- 💡 Interested in Web Development, Artificial Intelligence, and System Design
+- 🎯 Goal: Build impactful projects and become a skilled Software Engineer
+- 📚 Constantly learning and improving through coding and real-world projects
+
+## Skills
+
+- Programming: Python, Java, C
+- Web Development: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+- Databases: MySQL
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/allenxavierd
+- Email: allen89253@gmail.com
+
+## GitHub Stats
+
+![Allen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenxavierd&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenxavierd&layout=compact)
+
+---
+
+⭐ Thanks for visiting my profile!
